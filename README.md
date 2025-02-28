@@ -1,5 +1,5 @@
 # Ensaio de Machine Learning
-
+![Capa](img/ensaio_ml.jpeg)
 ## Descrição
 A Data Money considera o ajuste fino de algoritmos um fator essencial para o sucesso de suas consultorias. A expertise dos Cientistas de Dados na otimização dos modelos garante resultados mais eficazes para os clientes.
 
